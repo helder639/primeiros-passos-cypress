@@ -6,6 +6,11 @@ This project utilizes Cypress to automate the testing of a login feature and a u
 ```bash
 npm install
 ```
+
+```bash
+npm install chance
+```
+
 >**NOTE:**
 >
 >it is necessary to have **node** installed
